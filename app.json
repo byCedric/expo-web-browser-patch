@@ -2,6 +2,7 @@
   "expo": {
     "name": "test-webbrowser-sdk37",
     "slug": "test-webbrowser-sdk37",
+    "scheme": "expowebbrowserfix",
     "platforms": [
       "ios",
       "android",
